@@ -1,5 +1,5 @@
 Olá!
-Eu sou Willians Viana,  Sou um Programador de Front end, atualmente estou aprendendo e criando projeto com: 
+Eu sou Willians Viana,  Sou um Programador de Front end, atualmente estou Cursando o curso DevClub e criando e postando projeto com: 
 
 
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="Foto html">
